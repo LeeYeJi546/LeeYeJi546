@@ -6,7 +6,7 @@
 #### 💻 Activities
 > 2025.03 ~ 08 | UMC 8th iOS Challenger
 > 
-> 2025.09 ~ 2026.02 | UMC 9th Gachon Univ. iOS Leader
+> 2025.09 ~ 2026.02 | UMC 9th Gachon Univ. iOS Leader, Spring Boot Challenger
 
 ### CONTACT
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/662143750444679168)
