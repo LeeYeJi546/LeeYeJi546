@@ -44,7 +44,7 @@
 ![youtubemusic](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 
-#### WORKSPACE SPECS
+### WORKSPACE SPECS
 ![air](https://img.shields.io/badge/Apple-MacBook_Air_13_2024-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 
