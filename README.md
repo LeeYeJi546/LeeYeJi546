@@ -8,6 +8,9 @@
 > 
 > 2025.09 ~ 2026.02 | UMC 9th Gachon Univ. iOS Leader, Spring Boot Challenger
 
+#### 🚀 Projects
+> <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/7abe5c5d-3d1c-4488-ac28-b0fcd0b39ed7" /> **Encorely** | “공연의 여운을 기록하는 공간” Encore(앙코르) + ly = 앙코르처럼 기록하다
+
 ### CONTACT
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/662143750444679168)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeeYeJi546)
