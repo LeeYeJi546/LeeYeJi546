@@ -10,6 +10,9 @@
 
 #### 🚀 Projects
 > <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/7abe5c5d-3d1c-4488-ac28-b0fcd0b39ed7" /> **Encorely** | “공연의 여운을 기록하는 공간” Encore(앙코르) + ly = 앙코르처럼 기록하다
+> <img width="15" height="15" alt="UMCicon" src="https://github.com/user-attachments/assets/b413fb44-bfb6-4420-92b2-9ce020bde789" />
+**UMC AppProduct** | 챌린저들은 성장에만 집중하고 운영 업무는 우리가 관리합니다.
+
 
 ### CONTACT
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/662143750444679168)
